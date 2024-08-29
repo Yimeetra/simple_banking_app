@@ -1,7 +1,6 @@
 # Simple Banking App
-
 ## Todo
-- [ ] Transactions
+- [X] Transactions
 - [ ] Client GUI
 - [ ] Tranactions history
 - [ ] Client auth
