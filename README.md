@@ -4,3 +4,4 @@
 - [ ] Client GUI
 - [ ] Tranactions history
 - [ ] Client auth
+- [ ] Remake server with fastapi or something like that
